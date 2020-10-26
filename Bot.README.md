@@ -24,9 +24,9 @@ https://youtu.be/Sx5GpQtO01Y
      <ul class="navbar-nav">
        <li class="nav-item"><a href="#" class="nav-link white send"><span class="fas-fa-home">Home</span></a></li>
        <li class="nav-item"><a href="#" class="nav-link white"><span class="fas-fa-phone">ContactUs</span></a></li>
-       <li class="nav-item"><a href="#" class="nav-link white"><span class="fas-fa-home">News</span></a></li>
-       <li class="nav-item"><a href="#" class="nav-link white"><span class="fas-fa-home">Info</span></a></li>
-       <li class="nav-item"><a href="#" class="nav-link white"><span class="fas-fa-home">AboutUs</span></a></li>
+       <li class="nav-item"><a href="#" class="nav-link white"><span class="fas-fa-info">News</span></a></li>
+       <li class="nav-item"><a href="#" class="nav-link white"><span>Info</span></a></li>
+       <li class="nav-item"><a href="#" class="nav-link white"><span>AboutUs</span></a></li>
        </ul>
        </nav>
        <h1 class="h1 white">TALK TO BOT!...</h1>
